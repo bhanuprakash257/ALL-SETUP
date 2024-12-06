@@ -11,5 +11,5 @@ su - sonar
 cd /opt
 cd sonarqube-8.9.6.50800/bin/linux/
 ./sonar.sh start
-./sonar status
+./sonar.sh status
 #echo "user=admin & password=admin"
